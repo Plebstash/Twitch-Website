@@ -5,7 +5,7 @@
     border-radius: 16px;
 }
 .column {
-    float: left;
+    float: center;
     width: 25%;
     padding: 0 10px;
 }
@@ -23,4 +23,7 @@
         display: block;
         margin-bottom: 20px;
     }
+}
+.body {
+    text-align: center;
 }
