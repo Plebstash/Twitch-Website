@@ -12,6 +12,7 @@
 }
 .row{
     margin: 0 -5px;
+    align-items: center;
 }
 .row:after{
     content:"";
