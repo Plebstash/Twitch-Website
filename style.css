@@ -28,4 +28,7 @@
 .body {
     text-align: center;
     background-image: url('twitch.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
