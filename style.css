@@ -5,7 +5,6 @@
     border-radius: 16px;
 }
 .column {
-    float: left;
     width: 25%;
     padding: 10px 10px;
     display: flex;
