@@ -9,6 +9,7 @@
     width: 25%;
     padding: 10px 10px;
     display: flex;
+    justify-content: space-between;
 }
 .row{
     margin: 0 -5px;
@@ -40,5 +41,5 @@
 }
 .baka{
     display: flex;
-    
+
 }
